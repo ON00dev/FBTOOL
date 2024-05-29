@@ -1,5 +1,5 @@
 ## ALL IN ONE FACEBOOK HACKING TOOLKIT FOR NOOBZ
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
+![FIRST RUN OF TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
 #
 ## LOGIN METHODS
 - [x] NORMAL LOGIN
@@ -34,13 +34,13 @@
 
 ## INSTALLATION & USAGE
 
-    $ git clone https://github.com/mkdirlove/FBTOOL
+    $ git clone https://github.com/VictorON00/FBTOOL
     
     $ cd FBTOOL
 
-    $ python2 fbtool.py
+    $ python3 fbtool.py
     
     or
     
-    $ sudo python2 fbtool.py
+    $ sudo python3 fbtool.py
 #
