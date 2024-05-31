@@ -1,6 +1,5 @@
 ## CREDISTS
-- [x] mkdirlove
-- [github] https://github.com/mkdirlove/FBTOOL 
+- [x] https://github.com/mkdirlove/FBTOOL 
 
 ## IMPLEMENTED VERSION
 - [x] FOR PYTHON3;
