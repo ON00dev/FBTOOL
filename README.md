@@ -4,7 +4,7 @@
 ## LOGIN METHODS
 - [x] NORMAL LOGIN;
 - [x] ACCESS TOKEN LOGIN;
-
+  
 ## AVAILABLE FEATURES
 - [x] Facebook friend info fetcher;
 - [x] Get ID from friend;
@@ -18,9 +18,9 @@
 
 ## INSTALLATION & USAGE (ROOT)
 
-    - $ git clone https://github.com/VictorON00/FBTOOL
-    - $ cd FBTOOL
-    - $ python3 fbtool.py
+    - $  git clone https://github.com/VictorON00/FBTOOL
+    - $  cd FBTOOL
+    - $  python3 fbtool.py
 
 ## INSTALLATION & USAGE
 
