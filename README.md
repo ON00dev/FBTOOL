@@ -18,13 +18,9 @@
 
 ## INSTALLATION & USAGE
 
-    $ git clone https://github.com/VictorON00/FBTOOL
+    - $ git clone https://github.com/VictorON00/FBTOOL
+    - $ cd FBTOOL
     
-    $ cd FBTOOL
-
-    $ python3 fbtool.py
-    
+    - $ python3 fbtool.py
     or
-    
-    $ sudo python3 fbtool.py
-#
+    - $ sudo python3 fbtool.py
