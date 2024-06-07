@@ -20,13 +20,12 @@
 - [x] Profile Guard;
 
 ## INSTALLATION & USAGE (ROOT)
-
-    - $  git clone https://github.com/VictorON00/FBTOOL
-    - $  cd FBTOOL
-    - $  python3 fbtool.py
-
+    $ git clone https://github.com/VictorON00/FBTOOL
+    $ cd FBTOOL
+    $ python3 fbtool.py
+    
 ## INSTALLATION & USAGE
-
-    - $ sudo git clone https://github.com/VictorON00/FBTOOL
-    - $ cd FBTOOL
-    - $ sudo python3 fbtool.py
+    $ sudo git clone https://github.com/VictorON00/FBTOOL
+    $ cd FBTOOL
+    $ sudo python3 fbtool.py
+    '''
